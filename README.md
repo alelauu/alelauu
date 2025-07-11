@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Alexia (alek-sha)! 👋
 
-<!--
-**alelauu/alelauu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent **Software Engineering graduate** and an upcoming **Data Analytics master's student**.  
+I have foundations in **SQL**, **Python**, **Java** & **Kotlin**, which I have gained through my time in education.
 
-Here are some ideas to get you started:
+🌱 **Currently:**  
+- Preparing to start my master's in Data Analytics  
+- Exploring new skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Final Year Project:**  
+- **Bloom Brawl**:
+  - A mobile TCG designed to enhance fan engagement, especially within the BINI fandom.
+
+  **🔧 Built With**:
+    - Android Studio
+    - Kotlin & XML
+    - Local SQL database for managing cards, players, and collections
+
+  **🎮 Features**:
+    - Strategic gameplay for both casual and competitive players
+    - Visual branding tied to the BINI fandom
+    - Locally stored database manipulated using raw SQL queries
+    - Collect, battle, and connect in a personalized fan space
+
+  **📚 Focus Areas**:
+    - Fan engagement in digital music/gaming spaces
+    - Impact of visual branding in pop culture
+    - UI/UX best practices and accessibility in mobile design
+
+🔗 **Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/alexialaurado)
+
+✨ **Fun Fact:**  
+- I love Rubicon Mango Sparkling
+- 
+---
+
+Thanks for stopping by! 🚀
