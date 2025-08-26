@@ -27,7 +27,9 @@ I have foundations in **SQL**, **Python**, **Java** & **Kotlin**, which I have g
     - Impact of visual branding in pop culture
     - UI/UX best practices and accessibility in mobile design
 
-🔗 **Connect with me:**  [LinkedIn](https://www.linkedin.com/in/alexialaurado)
+🔗 **Let's connect!**  
+[LinkedIn](https://www.linkedin.com/in/alexialaurado)
+[LeetCode](https://leetcode.com/u/alelauu/)
 
 ✨ **Fun Fact:**  
 - I love Rubicon Mango Sparkling
